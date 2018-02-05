@@ -2,11 +2,7 @@
 
 ## Color Blindness Simulation for `UIColor`
 
-This library was demonstrated at the Color Me Surprised! Architecting a Robust Color System in Swift talk presented at try! Swift Tokyo 2017.
-
-A link to the presentation and its associated materials will be provided once available.
-
-*Note*: Cocoapod support to be added prior to the March 4th Hackathon :)
+This library was demonstrated at the [Color Me Surprised! Architecting a Robust Color System in Swift](https://academy.realm.io/posts/architecting-a-robust-color-system-swift-tryswift-2017-ragone/) talk presented at try! Swift Tokyo 2017.
 
 ## What it Does
 
@@ -19,7 +15,7 @@ This library provides a `UIColor` function that may be used to simulate the appe
     - deuteranopia
         - A red-green color deficiency specifically hindering the perception of green hues.
     - deuteranomaly
-        - A red-green color deficiency specifically hindering the perception of green hues.
+        - A red-green color abnormality specifically hindering the perception of green hues.
     - tritanopia
         - A blue-yellow color deficiency.
     - tritanomaly
